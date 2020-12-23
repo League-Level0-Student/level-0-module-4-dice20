@@ -12,7 +12,7 @@ public class SleepyHead {
 		/************************  SLEEPY HEAD  **************************/
 		boolean isWeekend;
 		// Write code to ask the user what day it is.
-        
+        String whatday = JOptionPane.showInputDialog("What is today?");
 		// Set the boolean isWeekend based on the value they enter
 		
 		

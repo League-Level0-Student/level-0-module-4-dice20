@@ -13,5 +13,8 @@ public static void main(String[] args) {
 				else if (Score >=80) {
 					JOptionPane.showMessageDialog(null, "eh it's average :\\");
 				}
+				else {
+					JOptionPane.showMessageDialog(null, "Bruh i know you could do better -_-");
+				}
 }
 }
